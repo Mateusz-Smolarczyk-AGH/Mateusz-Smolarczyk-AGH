@@ -11,4 +11,11 @@ link: https://github.com/Mateusz-Smolarczyk-AGH/Lab_problem
 link: https://github.com/Baey/robo-warehouse
 5. **Kanał podprogowy** - projekt z dziedziny kryptografii. Zawiera aplikację mającą na celu zademonstrowanie wykorzystania kanału podprogowego zaimplementowanego w algorytmie Elgamal.
 link: https://github.com/Mateusz-Smolarczyk-AGH/Subliminal_channel
-6.Potencjalnie - kwpss
+
+Potencjalnie
+6. Kwpss
+7. BO2
+8. ekg
+9.hyperspektral
+10. drony
+
