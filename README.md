@@ -32,7 +32,7 @@ Najczęściej korzystam z **Pythona**, ale pracuję też z **C++**, **MATLABem**
   Sterownik windy oparty o maszynę stanów, zaimplementowany w Simulinku i uruchomiony na sprzęcie.  
   *Technologie:* Simulink, Systemy wbudowane
 
-- **[Analiza obrazów hiperspektralnych](https://github.com/Mateusz-Smolarczyk-AGH/Hyperspectral_images_analize)**  
+- **[Analiza obrazów hiperspektralnych](https://github.com/Mateusz-Smolarczyk-AGH/Hyperspectral_images_analize/tree/mateo/random_forest)**  
   Grupowy projekt wykorzystujący uczenie maszynowe do klasyfikacji obrazów hiperspektralnych. Moim zadaniem była implementacja klasyfikatora random forest.  
   *Technologie:* Python, Scikit-learn, Teledetekcja
 
