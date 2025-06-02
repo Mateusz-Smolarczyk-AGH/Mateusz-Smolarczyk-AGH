@@ -8,7 +8,7 @@ Najczęściej korzystam z **Pythona**, ale pracuję też z **C++**, **MATLABem**
 
 ## 🚀 Wybrane Projekty
 
-- **[SuperPoint](https://github.com/Mateusz-Smolarczyk-AGH/SuperPoint)**  
+- **[Odometria wizyjna z użyciem SuperPoint na platformie Kria KV260](https://github.com/Mateusz-Smolarczyk-AGH/SuperPoint)**  
   Projekt pracy magisterskiej, w którym zrealizowano odometrię wizyjną z wykorzystaniem sieci SuperPoint do detekcji punktów charakterystycznych i deskryptorów. Projekt zawiera kwantyzację modelu oraz uruchomienie na DPU z użyciem platformy Kria KV260.  
   *Technologie:* Python, Deep Learning, Kwantyzacja, Embedded AI
 
@@ -56,7 +56,7 @@ I mostly use **Python**, but I also have experience with **C++**, **MATLAB**, an
 
 ## 🚀 Selected Projects
 
-- **[SuperPoint](https://github.com/Mateusz-Smolarczyk-AGH/SuperPoint)**  
+- **[Visual Odometry Using SuperPoint and Kria KV260 Hardware Acceleration](https://github.com/Mateusz-Smolarczyk-AGH/SuperPoint)**  
   Master's thesis project implementing a visual odometry pipeline using the SuperPoint network for keypoint detection and description. Includes model quantization and deployment on a DPU with the Kria KV260 platform.  
   *Technologies:* Python, Deep Learning, Quantization, Embedded AI
 
