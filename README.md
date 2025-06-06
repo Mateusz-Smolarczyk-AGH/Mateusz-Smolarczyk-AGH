@@ -36,10 +36,6 @@ Najczęściej korzystam z **Pythona**, ale pracuję też z **C++**, **MATLABem**
   Grupowy projekt wykorzystujący uczenie maszynowe do klasyfikacji obrazów hiperspektralnych. Moim zadaniem była implementacja klasyfikatora random forest.  
   *Technologie:* Python, Scikit-learn, Teledetekcja
 
-- **[Sterowanie dronem (PD kaskadowy)](https://github.com/Makelek00/uav-rotor-control_PID)**  
-  Trwający projekt zespołowy sterowania dronem przy użyciu kaskadowego regulatora PD.  
-  *Technologie:* Python, Systemy sterowania, ROS
-
 ---
 
 Poniżej znajduje się angielska wersja opisu ⬇️
@@ -83,10 +79,6 @@ I mostly use **Python**, but I also have experience with **C++**, **MATLAB**, an
 - **[Hyperspectral Image Analysis](https://github.com/Mateusz-Smolarczyk-AGH/Hyperspectral_images_analize)**  
   Group project applying machine learning to classify hyperspectral images. I implemented the random forest classifier.  
   *Technologies:* Python, Scikit-learn, Remote Sensing
-
-- **[Drone Control (PD Cascade)](https://github.com/Makelek00/uav-rotor-control_PID)**  
-  Ongoing group project developing drone control using a cascaded PD controller.  
-  *Technologies:* Python, Control Systems, ROS
 
 ---
 
