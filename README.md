@@ -1,6 +1,6 @@
 # 👋 Cześć, jestem Mateusz Smolarczyk
 
-Kończę ostatni rok studiów magisterskich na kierunku **Automatyka i Robotyka** na **AGH w Krakowie**.  
+Skończyłem studia magisterskie na kierunku **Automatyka i Robotyka** na **AGH w Krakowie**.  
 Na tym profilu GitHub przedstawiam wybrane projekty, które zrealizowałem w trakcie moich studiów.
 
 Moje główne zainteresowania to **sterowanie** oraz **sztuczna inteligencja**.  
@@ -44,7 +44,7 @@ Poniżej znajduje się angielska wersja opisu ⬇️
 
 # 👋 Hi, I'm Mateusz Smolarczyk
 
-I'm currently finishing my final year of the Master's degree in **Automation and Robotics** at **AGH University of Krakow**.  
+I have completed my Master’s degree in **Automation and Robotics** at **AGH University of Krakow**.  
 This GitHub profile showcases a selection of projects I’ve worked on during my studies.
 
 My main interests lie in **control systems** and **artificial intelligence**.  
